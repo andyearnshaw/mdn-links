@@ -1,6 +1,7 @@
 {
   "name": "mdn-links",
   "version": "0.1.0",
+  "repository": "andyearnshaw/mdn-links",
   "description": "Caches data from the Mozilla Developer Network wiki and provides methods to return links to documentation for JavaScript and DOM objects.",
   "main": "index.js",
   "scripts": {
